@@ -1,0 +1,15 @@
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\bin\Debug\net6.0\ProyectoMateDiscreta.exe
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\bin\Debug\net6.0\ProyectoMateDiscreta.deps.json
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\bin\Debug\net6.0\ProyectoMateDiscreta.runtimeconfig.json
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\bin\Debug\net6.0\ProyectoMateDiscreta.dll
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\bin\Debug\net6.0\ProyectoMateDiscreta.pdb
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\ProyectoMateDiscreta.csproj.AssemblyReference.cache
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\ProyectoMateDiscreta.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\ProyectoMateDiscreta.AssemblyInfoInputs.cache
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\ProyectoMateDiscreta.AssemblyInfo.cs
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\ProyectoMateDiscreta.csproj.CoreCompileInputs.cache
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\ProyectoMateDiscreta.dll
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\refint\ProyectoMateDiscreta.dll
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\ProyectoMateDiscreta.pdb
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\ProyectoMateDiscreta.genruntimeconfig.cache
+D:\ProyectoMateDiscreta\ProyectoMateDiscreta\ProyectoMateDiscreta\obj\Debug\net6.0\ref\ProyectoMateDiscreta.dll
